@@ -22,13 +22,13 @@ EV Buddy is an AI-powered virtual assistant designed to revolutionize the way us
 - **Node.js** – Backend runtime environment
 - **Express.js (optional)** – REST API handling and routing
 - **OpenAI GPT (ChatGPT API)** – For natural language understanding and intelligent responses
-- **Whisper (optional)** – Advanced speech-to-text support for voice features
+
 
 ### Integration & DevOps
 - **Git** – Version control
 - **Vercel / Netlify** – Hosting and CI/CD for frontend
 - **Render / Railway / AWS** – Backend deployment options
-- **MongoDB / Firebase (optional)** – Store chat history or user preferences
+  
 
 ## 🌱 Future Enhancements
 - **Multilingual Support** – Expand voice/chat support to regional languages
